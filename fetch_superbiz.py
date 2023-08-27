@@ -98,7 +98,7 @@ def upload_to_wally(SDK_name):
     # run(["cd", f"{TEMP_DIR}/{SDK_name}/"])
     os.chdir(f"{TEMP_DIR}/{SDK_name}/")
     run([f"../wally", "login", "--token", GITHUB_TOKEN])
-    run([f"../wally.exe", "publish"])
+    run([f"../wally", "publish"])
 
 download_files()
 output_proj_info = deconstruct_files()
