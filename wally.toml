@@ -1,0 +1,16 @@
+[package]
+name = "pnlmon/bloxbiz-sdk"
+description = "An unofficial port of the Superbiz(Bloxbiz) SDK to Rojo"
+version = "{VERSION}"
+license = "MIT"
+authors = ["pnlmon <oth@havingastroke.party"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+
+[dependencies]
+
+
+[server-dependencies]
+
+
+[dev-dependencies]
