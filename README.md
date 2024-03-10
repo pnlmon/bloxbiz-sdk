@@ -12,3 +12,5 @@ Add the following to your `wally.toml` file:
 [dependencies]
 bloxbiz-sdk = "pnlmon/bloxbiz-sdk"
 ```
+
+[![Automatically update the file](https://github.com/pnlmon/bloxbiz-sdk/actions/workflows/update.yml/badge.svg)](https://github.com/pnlmon/bloxbiz-sdk/actions/workflows/update.yml)
