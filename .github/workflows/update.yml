@@ -2,9 +2,7 @@ name: Automatically update the file
 on:
     push:
         branches:
-            - main
-    schedule:
-        - cron: "0 */3 * * *"
+            - never
 jobs:
     issue:
         runs-on: ubuntu-latest
