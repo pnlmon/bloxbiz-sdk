@@ -1,3 +1,5 @@
+** ARCHIVED**
+Given the lack of usage in this project and its experimental nature, this project will no longer be maintained.
 ## Bloxbiz SDK (Unofficial)
 
 This is an unofficial SDK for the Bloxbiz API. It is not affiliated with Bloxbiz in any way.
